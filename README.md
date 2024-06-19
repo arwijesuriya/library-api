@@ -1,4 +1,4 @@
-# Library REST API
+# LibraryAPI
 
 This is a RESTful API for managing a library's book collection, built with Node.js, Express, MongoDB, and Mongoose.
 
